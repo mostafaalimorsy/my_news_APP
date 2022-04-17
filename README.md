@@ -1,16 +1,23 @@
-# news_cubit
+** News App  **
 
-A new Flutter project.
+## Introduction:
 
-## Getting Started
+    Let me give you a brief overview of the project, This app for Show the Top hed-line News in Egypt in 3 field (Busines - sports - science) and the default screen is General news.
+    Inaddition to You Can Search About Any New By Name Or Each By Character And User Can Open Any Head-line And Browse It Inside The App .
+    Also You Can Browse The News In Two Mode (Light - Dark) Mode .
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## This Project Created use :
+    - API : Dio.
+    - Sheared Preferences.
+    - Dark and Light Mode.
+    - Web View.
+    - state Management : Bloc (Cubit).
+    - Architecture Design : Model- View - controller (MVC).
+    - SOLID Principles
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](screenshoot/IMG_20220417_023427.jpg)
+![2](screenshoot/IMG_20220417_023452.jpg)
+![3](screenshoot/IMG_20220417_023508.jpg)
